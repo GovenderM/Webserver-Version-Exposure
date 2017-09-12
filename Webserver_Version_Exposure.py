@@ -7,10 +7,6 @@
 ###########Important Notice - Please test this Tool in a test platorm and understand how this tool works before using in a production platform. 
 
 ###########Modules Loaded
-import platform		                # Loading the list of  Modules
-import os
-import subprocess
-import sys
 
 import subprocess
 print "Please check output below to determine if you are exposing the webserver version"
