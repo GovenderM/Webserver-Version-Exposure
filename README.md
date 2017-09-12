@@ -7,5 +7,5 @@ python Webserver_Version_Exposure.py
 
 # Author
 
-[Mayendran Govender]
+Mayendran Govender
 
